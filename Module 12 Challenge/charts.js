@@ -111,7 +111,7 @@ function buildCharts(sample) {
     };
     var data = [bubble];
     var layout = {
-      title: "Belly Button Bacteria",
+      title: "Bacteria Cultures Per Sample ",
       xaxis: {title: "OTU ID"},
       hovermode: "closests",
       autosize: true
