@@ -2,4 +2,4 @@
 
 
 
-![ Dashboard] (https://github.com/reinalim/reinalim.github.io.git/Image1.png)
+![ Dashboard] (https://github.com/reinalim/reinalim.github.io/tree/main/Image1.png)
